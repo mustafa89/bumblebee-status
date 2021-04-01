@@ -4,7 +4,7 @@
 		"separator-block-width": 0,
 		"warning": {
 			"fg": "#282C34",
-			"bg": "#E5C07B"
+			"bg": "#FFA500"
 		},
 		"critical": {
 			"fg": "#282C34",
@@ -36,20 +36,5 @@
 			"fg": "#282C34",
 			"bg": "#98C379"
 		}
-	},
-    "pomodoro": {
-        "paused": {
-            "fg": "#282C34",
-            "bg": "#E5C07B"
-        },
-        "work": {
-            "fg": "#98C379",
-            "bg": "#282C34"
-        },
-        "break": {
-            "fg": "#282C34",
-            "bg": "#98C379"
-        }
-    }
-
+	}
 }
